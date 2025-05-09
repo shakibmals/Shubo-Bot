@@ -6,17 +6,17 @@
   "language": "en",
   "notification": true,
   "approval": false,
-  "BOTNAME": "BABU-BOT",
+  "BOTNAME": "SHAKIB-BOT",
   "PREFIX": "/",
   "OPERATOR": [
-    "100075851615936",
+    "100000216564446",
     "100075851615936"
   ],
   "ADMINBOT": [
     "100075851615936",
     "100075851615936"
   ],
-  "OWNER": ["100000959749712"], 
+  "OWNER": ["100088581759485"], 
   "APPROVED": [],
   "disabledcmds": [],
   "disabledevents": [],
