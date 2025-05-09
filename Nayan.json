@@ -6,15 +6,15 @@
   "language": "en",
   "notification": true,
   "approval": false,
-  "BOTNAME": "BABU-BOT",
+  "BOTNAME": "Mohammad Shakib Bot 😒",
   "PREFIX": "/",
   "OPERATOR": [
-    "100075851615936",
+    "100000216564446",
     "100075851615936"
   ],
   "ADMINBOT": [
     "100075851615936",
-    "100075851615936"
+    "100088581759485"
   ],
   "OWNER": ["100000959749712"], 
   "APPROVED": [],
